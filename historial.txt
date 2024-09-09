@@ -1,0 +1,46 @@
+    1  ls
+    2  whoami
+    3  pwd
+    4  man man
+    5  ls
+    6  cd repogit/
+    7  ls
+    8  cd ..
+    9  ls
+   10  cat README
+   11  git clone https://github.com/asegg/seggiaro_vagrant.git
+   12  ls
+   13  cd seggiaro_vagrant/
+   14  ls
+   15  history
+   16  history > historial.txt
+   17  ls
+   18  cat historial.txt
+   19  git status
+   20  git add .
+   21  git status
+   22  git commit -m "mi primer commit"
+   23  git config --global user.email "aaseggiaro@gmail.com"
+   24  git commit -m "mi primer commit"
+   25  git push
+   26  exit
+   27  ls
+   28  ls -la
+   29  ssh-keigen -t ed25519
+   30  ssh-keygen -t ed25519
+   31  ls -la
+   32  .ssh
+   33  cd .ssh
+   34  ls
+   35  cat id_ed25519.pub
+   36  cd ..
+   37  ls
+   38  cd repogit
+   39  ls
+   40  git clone git@github.com:asegg/seggiaro_vagrant.git
+   41  ls
+   42  history
+   43  history > historial.txt
+   44  cd seggiaro_vagrant/
+   45  history
+   46  history > historial.txt
